@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hola, soy Erick Martínez 
+Cloud & Data Analyst en transición hacia Cloud Engineer.
+Experiencia en AWS, Azure, automatización y networking.
 
-<!--
-**erickmatz9101/erickmatz9101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Portafolio en progreso -
+**AWS VPC Peering Lab** → *(enlace al repo)* 
+- **Azure Storage Security** → *(enlace al repo)* -
+- **Terraform IaC Examples** → *(enlace al repo)*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 📫 Contacto -
+-  LinkedIn: [www.linkedin.com/in/erick-jomc]
+- - Email: [erick_martinez9101@outlook.com]
