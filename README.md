@@ -5,6 +5,7 @@ Experiencia en AWS, Azure, automatización y networking.
 ## 🚀 Portafolio en progreso -
 https://github.com/erickmatz9101/cloud-portafolio-aws-azure
 ## 🚀 **AWS Analytics Lite Arquitecxtura de soluciones en la nube AWS y devOps**
+https://github.com/erickmatz9101/aws-analytics-lite
 
 - ## 📫 Contacto -
 -  LinkedIn: [www.linkedin.com/in/erick-jomc]
