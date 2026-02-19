@@ -8,7 +8,7 @@ He liderado proyectos que aceleran la toma de decisiones y mejoran la precisión
 
 ## 🚀 Portafolio en progreso -
 https://github.com/erickmatz9101/cloud-portafolio-aws-azure
-## 🚀 **AWS Analytics Lite Arquitecxtura de soluciones en la nube AWS y devOps**
+## 🚀 **AWS Analytics Lite Arquitectura de soluciones en la nube AWS y devOps**
 https://github.com/erickmatz9101/aws-analytics-lite
 
 - ## 📫 Contacto -
